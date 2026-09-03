@@ -1,23 +1,19 @@
-### Oii, eu sou a Samantha Ferri!
+# Hi, I'm Samantha 👋
 
+Product Designer based in Brazil, working at the intersection of product, design, engineering and AI.
 
+I design web and mobile products, with a particular focus on user flows, business rules, interface craft and the details outside the happy path.
 
-- 🚀 Estou procurando um estágio na área de Desenvolvimento Web
-- 📚 Atualmente estou estudando Javascript
-- 😄 Pronomes: ela/dela
+My background in software development helps me work closely with engineering, while AI and functional prototyping have become part of how I explore and validate product decisions.
 
+*Product Design · UX/UI · Figma · Claude Code · AI-assisted prototyping*
 
-<div align="center">
-  <a href="https://github.com/sahmanuela">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahmanuela&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahmanuela&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+---
 
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/samanthamanuelaf/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:samantha.manuela@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/samanthamanuela/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+<p>
+  <a href="https://samantha.figma.site"><b>Portfolio</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/samanthamanuela/"><b>LinkedIn</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.behance.net/samanthaferri"><b>Behance</b></a>
+</p>
